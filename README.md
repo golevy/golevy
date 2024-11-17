@@ -21,7 +21,7 @@ Welcome to my GitHub profile! 🌟
 ![Languages](https://skillicons.dev/icons?i=js,ts,go,python)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,next,html,css,tailwind)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,next,html,css,tailwind,electron)
 
 #### Backend Technologies
 ![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,docker,fastapi,nest)
