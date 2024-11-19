@@ -6,9 +6,6 @@ Welcome to my GitHub profile! 🌟
 - 🌱 I’m currently learning NestJS, Python, Go
 - 😄 Pronouns: Simple and Graceful
 
-## GitHub Stats
-![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=golevy&show_icons=true&theme=cobalt)
-
 ## Connect with me
 - golvwei@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/golevy)
