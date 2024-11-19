@@ -7,10 +7,10 @@ Welcome to my GitHub profile! 🌟
 - 😄 Pronouns: Simple and Graceful
 
 ## Connect with me
-- golvwei@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/golevy)
-- [X](https://x.com/golvwei)
-- [Personal Website](https://www.weblvw.com)
+- <a href="mailto:golvwei@gmail.com" target="_blank">golvwei@gmail.com</a>
+- <a href="https://www.linkedin.com/in/golevy" target="_blank">LinkedIn</a>
+- <a href="https://x.com/golvwei" target="_blank">X</a>
+- <a href="https://www.weblvw.com" target="_blank">Personal Website</a>
 
 ## Skills
 
